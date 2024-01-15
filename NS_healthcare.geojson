@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "NS_healthcare",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1214, "identifier": "0150100000001338", "name": "Deventer", "year_of_construction": 1861, "number_of_residence_objects": 3, "residential_function": 2, "meeting_function": 0, "prison_function": 0, "healthcare_function": 1, "industry_function": 0, "office_function": 0, "lodging_function": 0, "education_function": 0, "sport_function": 0, "retail_function": 0, "other_function": 0, "shape_Length": 44.671305211643798, "shape_Area": 122.535981000006, "SUM_AREA": 122.535981000006, "%SUM/TOT": 0.15756294945296836 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 6.1507771075, 52.253799115900001, 0.0 ], [ 6.150779613, 52.253800034400001, 0.0 ], [ 6.1509265188, 52.253855313700001, 0.0 ], [ 6.1508465417, 52.253934755700001, 0.0 ], [ 6.1506994548, 52.2538791809, 0.0 ], [ 6.1507773828, 52.253801504899997, 0.0 ], [ 6.1507754517, 52.253800771400002, 0.0 ], [ 6.1507771075, 52.253799115900001, 0.0 ] ] ] ] } }
+]
+}

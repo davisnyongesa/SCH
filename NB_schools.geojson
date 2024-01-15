@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "NB_schools",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1309, "identifier": "0150100000001433", "name": "Deventer", "year_of_construction": 1933, "number_of_residence_objects": 9, "residential_function": 9, "meeting_function": 0, "prison_function": 0, "healthcare_function": 0, "industry_function": 0, "office_function": 0, "lodging_function": 0, "education_function": 1, "sport_function": 0, "retail_function": 0, "other_function": 0, "shape_Length": 64.522715068609401, "shape_Area": 235.20437900041401, "SUM_AREA": 235.20437900041401, "%SUM/TOT": 0.30243766261239818 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 6.1524546838, 52.255310097200002, 0.0 ], [ 6.152590803056213, 52.255393202490048, 0.0 ], [ 6.1526784463, 52.255321072400001, 0.0 ], [ 6.1527100367, 52.255296339, 0.0 ], [ 6.1527709682, 52.255247237299997, 0.0 ], [ 6.1527239342, 52.255226474200001, 0.0 ], [ 6.152692591, 52.255211954899998, 0.0 ], [ 6.1526877378, 52.255215896199999, 0.0 ], [ 6.1526720737, 52.255208645499998, 0.0 ], [ 6.1526769269, 52.255204704199997, 0.0 ], [ 6.1526383348, 52.255186825400003, 0.0 ], [ 6.1525942624, 52.2552181561, 0.0 ], [ 6.1525496003, 52.2552458595, 0.0 ], [ 6.1525163287, 52.255267368, 0.0 ], [ 6.1525159441, 52.255267145799998, 0.0 ], [ 6.152454351120505, 52.255309902961919, 0.0 ], [ 6.1524546838, 52.255310097200002, 0.0 ] ] ] ] } }
+]
+}
